@@ -1,7 +1,7 @@
-# Diffusion Models for Generative Modelling of a Posteriori Probability Measures in Target Tracking
+# [Diffusion Models for Generative Modelling of a Posteriori Probability Measures in Target Tracking](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1991123&dswid=-439)
 ### Master's thesis in Applied and Computational Mathematics at KTH (Spring 2025). Host company: Saab Surveillance.
 ### Authors: David Ahnlund & Axel Nilsson
-https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1991123&dswid=-439
+
 <p align="center">
   <img src="https://github.com/Diffusion-VT25/.github/blob/main/diffusionprocess_comp.gif?raw=true" width="45%" />
   <img src="https://github.com/Diffusion-VT25/.github/blob/main/animated_paths_rocket.gif" width="45%" />
